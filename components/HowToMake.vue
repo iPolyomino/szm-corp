@@ -1,5 +1,5 @@
 <template>
-  <v-parallax src="rice_field_sediment_sampling.webp" height="380">
+  <v-parallax src="rice_field_sediment_sampling.jpg" height="380">
     <v-layout column align-center justify-center>
       <div class="headline white--text mb-3 text-xs-center">
         おいしいお米は農家さんの努力によって作られています。
